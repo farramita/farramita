@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farramita
-- 👀 I’m interested in UX/UI Designer, android Development 
+- 👀 I’m interested in UX/UI Designer, front-end Development 
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on Metaverse
 - 📫 How to reach me > email : faramita9@gmail.com
