@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @farramita
-- 👀 I’m interested in UX/UI Designer, front-end Development 
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in UX/UI Designer, front-end Development and BA SA
+- 🌱 I’m currently learning React, Kotlin
 - 💞️ I’m looking to collaborate on Metaverse
-- 📫 How to reach me > email : faramita9@gmail.com
+- 📫 How to reach me > email : amita.roma@hotmail.com
 
 <!---
 farramita/farramita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
